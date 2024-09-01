@@ -8,6 +8,8 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Welcome to the JSP Page</h1>
+        <p>This is a simple JSP page.</p>
+        <p><a href="hello.xhtml">Go to JSF page</a></p>
     </body>
 </html>
