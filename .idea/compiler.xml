@@ -6,13 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="mavenproject3" />
+        <module name="javaee6" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="mavenproject3" options="-endorseddirs C:\Users\Filip\Documents\NetBeansProjects\mavenproject3\target/endorsed" />
+      <module name="javaee6" options="-endorseddirs C:\Users\Filip\Documents\NetBeansProjects\javaee6\target/endorsed" />
     </option>
   </component>
 </project>
